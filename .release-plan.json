@@ -2,8 +2,8 @@
   "solution": {
     "ember-modify-based-class-resource": {
       "impact": "patch",
-      "oldVersion": "1.1.0",
-      "newVersion": "1.1.1",
+      "oldVersion": "1.1.1",
+      "newVersion": "1.1.2",
       "constraints": [
         {
           "impact": "patch",
@@ -13,5 +13,5 @@
       "pkgJSONPath": "./ember-modify-based-class-resource/package.json"
     }
   },
-  "description": "## Release (2024-11-02)\n\nember-modify-based-class-resource 1.1.1 (patch)\n\n#### :bug: Bug Fix\n* `ember-modify-based-class-resource`\n  * [#18](https://github.com/NullVoxPopuli/ember-modify-based-class-resource/pull/18) Widen peer dependency of ember-source ([@johanrd](https://github.com/johanrd))\n  * [#17](https://github.com/NullVoxPopuli/ember-modify-based-class-resource/pull/17) Widen peer dependency @glimmer/component ([@johanrd](https://github.com/johanrd))\n\n#### Committers: 1\n- [@johanrd](https://github.com/johanrd)\n"
+  "description": "## Release (2025-05-10)\n\nember-modify-based-class-resource 1.1.2 (patch)\n\n#### :bug: Bug Fix\n* `ember-modify-based-class-resource`\n  * [#20](https://github.com/NullVoxPopuli/ember-modify-based-class-resource/pull/20) Remove unneeded peers ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### Committers: 1\n- [@NullVoxPopuli](https://github.com/NullVoxPopuli)\n"
 }

@@ -1,4 +1,14 @@
 # Changelog
+## Release (2025-05-10)
+
+ember-modify-based-class-resource 1.1.2 (patch)
+
+#### :bug: Bug Fix
+* `ember-modify-based-class-resource`
+  * [#20](https://github.com/NullVoxPopuli/ember-modify-based-class-resource/pull/20) Remove unneeded peers ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
 ## Release (2024-11-02)
 
 ember-modify-based-class-resource 1.1.1 (patch)
